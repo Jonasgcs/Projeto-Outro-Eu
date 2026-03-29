@@ -39,3 +39,6 @@ Para quebrar o ritmo hipnótico da mediocridade, este projeto adota:
 
 ## ⚡ Sentença para o Sucesso
 > "O seu amanhã começa hoje e ele está intacto. O sucesso é um esporte para poucos que suportam o topo da montanha."
+
+## 📚 Recursos Externos
+> [NotebookLM - Outro Eu](https://notebooklm.google.com/notebook/ce622c64-748e-4100-a970-ccfec2c9069f/preview)
