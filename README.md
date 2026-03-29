@@ -25,4 +25,4 @@ Nas maiores emergências e derrotas temporárias, o ser humano é forçado a des
 > "Vença o medo, pois ele é apenas um preenchedor de espaço que o Diabo utiliza para ocupar sua mente."
 
 ## 🎯 Como Contribuir
-Este projeto exige **entrega absoluta** [26]. Não aceite a mediocridade; decida ser o melhor no que você foi plantado para fazer [7, 27].
+Este projeto exige **entrega absoluta**. Não aceite a mediocridade; decida ser o melhor no que você foi plantado para fazer.
